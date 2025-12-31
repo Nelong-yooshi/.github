@@ -1,7 +1,6 @@
 # Nelong Team
-## Team member
-CEO: Nemo Tasi
+Join the Segora Agora
+Reclaim Data Sovereignty
 
-Passersby: Rlong
 ## Contract us
-nelong.yooshi@gmail.com
+info@segora.tech
