@@ -1,4 +1,4 @@
-# Nelong Team
+# Segora Tech
 Join the Segora Agora
 
 Reclaim Data Sovereignty
